@@ -8,7 +8,6 @@ void sorting(char [][50],int [],int ,int ,int ,int );
 int inputVal(int ,int ,int ,int );
 float drinksSize(float ,float);
 
-
 int main(){
 
     int i,j,sizeSet,choice,category1,category2,category3,statusAddOn,statusCust,donutChoose,toppingChoose,drinksChoose,check,totalSales = 0;
